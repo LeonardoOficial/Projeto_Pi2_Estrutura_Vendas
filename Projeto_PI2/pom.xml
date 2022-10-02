@@ -10,4 +10,5 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <exec.mainClass>br.senac.tads.projeto_pi2.Projeto_PI2</exec.mainClass>
     </properties>
+    <name>Projeto_PI2_EstruturaVenda</name>
 </project>
